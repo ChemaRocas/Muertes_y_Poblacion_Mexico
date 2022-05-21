@@ -1,3 +1,2 @@
 Hello Project
 # Este es un cambio hecho desde la rama de Luis #
-# La cague con este commit porque hay BUGS #
